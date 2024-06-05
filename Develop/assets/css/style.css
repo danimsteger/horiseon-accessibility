@@ -198,3 +198,8 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+/* Added the image to the html to give it a alt text, as it was originally placed as a background image in CSS, and you can't add alt text to CSS images.*/
+#image {
+    visibility: hidden;
+}
