@@ -33,3 +33,5 @@ The initial code for this project was provided by edX Boot Camps LLC and can be 
 
 
 ## License
+
+Distributed under the MIT License.  See [LICENSE](LICENSE).
