@@ -39,6 +39,7 @@ nav {
     list-style-type: none;
 }
 
+    /* li elements will be inline (next to each other horizontally) instead of having them each having their own line. */
 li {
     display: inline;
     padding: 0px 20px;
@@ -46,6 +47,7 @@ li {
 
 a {
     color: #ffffff;
+    /*links will not have be a different styling such as being underlined. */
     text-decoration: none;
 }
 
@@ -61,9 +63,9 @@ footer {
 }
 
 /* || Class Selectors */
-
 .main-image {
     height: 800px;
+    /* .main-image class has a width set to 100% so that it takes up the full width of the screen */
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
@@ -86,6 +88,7 @@ footer {
     color: #ffffff;
 }
 
+    /* Elements with a class of .float-left will be on the left side of the container and those with float-right class will be on the right. */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -100,6 +103,7 @@ footer {
     margin-right: 20px;
     padding: 20px;
     clear: both;
+    /* The sidebar will be on the right side of the page. */
     float: right;
     width: 20%;
     height: 100%;
@@ -112,6 +116,7 @@ footer {
     color: #ffffff;
 }
 
+    /* h2 headings within the services elements will have a margin underneath them of 20px and will be sized 36px. */
 .services h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -126,6 +131,7 @@ footer {
     text-align: center;
 }
 
+    /* The icons in the benefits section will be on their own line (block) and will be centered within the sidebar container. */
 .benefits img {
     display: block;
     margin: 10px auto;
@@ -134,6 +140,7 @@ footer {
 
 /* || ID Selectors */
 
+    /* The "seo" letters of the header will be light grey. */
 #seo {
     color: #d9dcd6;
 }
