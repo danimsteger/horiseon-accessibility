@@ -2,9 +2,9 @@
 
 ## Description
 
-This project refactored an existing set of code to make it follow conventional coding techniques, be more accessible to all users, and therefore be optimized for search engines.  In completing this project, it helped to gain a better understanding of what appropriate code looks like, how to properly name elements and apply CSS to them in an efficient way that limits repetition.  
+This project refactored an existing set of code to make it follow conventional coding techniques, be more accessible to all users, and therefore be optimized for search engines.  In completing this project, it helped to gain a better understanding of what appropriate code looks like, how to properly name elements and apply CSS to them in an efficient way that limits repetition.  You can view this webpage by clicking [here](https://danimsteger.github.io/horiseon-accessibility/).
 
-![Sample view of the page](<Develop/assets/images/webpage screenshot.png>)
+![Sample view of the page](</assets/images/webpage screenshot.png>)
 
 ## Installation
 
